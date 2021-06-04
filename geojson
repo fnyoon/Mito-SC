@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "エクセル"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47584772109985,
+          36.37109650941604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "MEGAドン・キホーテ上水戸店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.44537246227264,
+          36.389583470176134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "フレスポ赤塚"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.41266560554504,
+          36.38057483794401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "イオンモール水戸内原"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.35883903503418,
+          36.37425176137395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ロゼオ水戸"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4514396190643,
+          36.34037308872394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "エクセルみなみ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47689914703366,
+          36.37010520260796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "水戸オーパ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47543868422508,
+          36.37014947692879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ミオスショッピングプラザ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.41463971138,
+          36.38233691523163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ヨークタウン赤塚"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.41752576828003,
+          36.38139541811874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ヤマダ電機テックランド水戸本店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4587996006012,
+          36.34773589049776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "山新グランステージ水戸"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.48426985740662,
+          36.340329877738704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ケーズデンキ水戸本店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.48160910606384,
+          36.339145887415626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "水戸京成百貨店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.46430349349976,
+          36.37804394139864
+        ]
+      }
+    }
+  ]
+}
